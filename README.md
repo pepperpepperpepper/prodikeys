@@ -1,5 +1,3 @@
 # prodikeys
 
-Personal product/license key inventory.
-
-Keep this repository **private** and avoid committing plaintext secrets unless you intend to.
+Notes and experiments for the Creative ProdiKeys USB device on Linux (capture/reverse-engineering).
